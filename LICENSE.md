@@ -1,4 +1,4 @@
-# 
+# smart JetBrains Rider for PC | JetBrains Rider for Windows Integration | code-analysis + project-management is the best JetBrains Rider for PC | JetBrains Rider for Windows
 
 
 
